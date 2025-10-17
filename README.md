@@ -19,3 +19,11 @@ Repositório contendo o modelo para os posters para os eventos organizados em 20
 ```shell
 git clone https://github.com/labmacbnu/Modelos-Posters-2026.git
 ```
+
+## Download repo as `.zip`
+
+[Modelos-Posters-2026-main.zip](https://github.com/labmacbnu/Modelos-Posters-2026/archive/refs/heads/main.zip)
+
+## View templates on Overleaf
+
+[Modelos-Posters-2026 on Overleaf](https://pt.overleaf.com/read/bzbpvcypxjph#14e961)
