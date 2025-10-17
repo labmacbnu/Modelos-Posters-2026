@@ -27,3 +27,7 @@ git clone https://github.com/labmacbnu/Modelos-Posters-2026.git
 ## View templates on Overleaf
 
 * 🌱 [Modelos-Posters-2026 on Overleaf](https://pt.overleaf.com/read/bzbpvcypxjph#14e961)
+
+> Remember to select the right template file for compilation 
+>
+>![Select the right template](imagens/select-main.png)
